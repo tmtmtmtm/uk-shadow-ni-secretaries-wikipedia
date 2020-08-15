@@ -4,6 +4,18 @@
       "value": "Q336534",
       "label": "Merlyn Rees"
     },
+    "replacedBy": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "start": {
+      "value": "1972-03-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q336534$EAFEF59C-17D9-46AE-98BC-93974D778222"
   },
   {
@@ -33,6 +45,14 @@
     "item": {
       "value": "Q334302",
       "label": "Airey Neave"
+    },
+    "replaces": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replacedBy": {
+      "value": "Q333700",
+      "label": "Roy Mason"
     },
     "start": {
       "value": "1974-03-04T00:00:00Z",
@@ -66,6 +86,75 @@
       "precision": "11"
     },
     "statement": "Q333362$0962A832-CD5E-471B-92FE-001433497C7F"
+  },
+  {
+    "item": {
+      "value": "Q333700",
+      "label": "Roy Mason"
+    },
+    "replaces": {
+      "value": "Q334302",
+      "label": "Airey Neave"
+    },
+    "replacedBy": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333700$02A393EF-B7DC-41EA-8918-96F1D5BD57F7"
+  },
+  {
+    "item": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "replaces": {
+      "value": "Q333700",
+      "label": "Roy Mason"
+    },
+    "replacedBy": {
+      "value": "Q5292445",
+      "label": "Don Concannon"
+    },
+    "start": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4981019$CA9DC79D-B78B-4858-922B-F5011B844B3A"
+  },
+  {
+    "item": {
+      "value": "Q5292445",
+      "label": "Don Concannon"
+    },
+    "replaces": {
+      "value": "Q4981019",
+      "label": "Brynmor John"
+    },
+    "replacedBy": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "start": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5292445$E15A38F8-032F-415F-93F7-4B78748D7813"
   },
   {
     "item": {
@@ -342,5 +431,89 @@
       "precision": "11"
     },
     "statement": "Q285975$F0B88973-2730-4F85-971C-6B24F1428812"
+  },
+  {
+    "item": {
+      "value": "Q3409354",
+      "label": "David Anderson"
+    },
+    "replaces": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "replacedBy": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "start": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3409354$57F1E70C-2E51-47F6-94A3-6054176BB551"
+  },
+  {
+    "item": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "replaces": {
+      "value": "Q3409354",
+      "label": "David Anderson"
+    },
+    "replacedBy": {
+      "value": "Q695295",
+      "label": "Tony Lloyd"
+    },
+    "start": {
+      "value": "2017-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2018-03-23T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q390690$D8DBDAD0-1769-4EE7-801F-641EEB92F1B2"
+  },
+  {
+    "item": {
+      "value": "Q695295",
+      "label": "Tony Lloyd"
+    },
+    "replaces": {
+      "value": "Q390690",
+      "label": "Owen Smith"
+    },
+    "replacedBy": {
+      "value": "Q19957992",
+      "label": "Louise Haigh"
+    },
+    "start": {
+      "value": "2018-03-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q695295$36FD1FAA-06EF-41AB-8528-157E6C1E550B"
+  },
+  {
+    "item": {
+      "value": "Q19957992",
+      "label": "Louise Haigh"
+    },
+    "replaces": {
+      "value": "Q695295",
+      "label": "Tony Lloyd"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19957992$589C937A-1527-43ED-AC34-64D8216ED131"
   }
 ]
