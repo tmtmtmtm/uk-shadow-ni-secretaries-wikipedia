@@ -1,0 +1,346 @@
+[
+  {
+    "item": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "statement": "Q336534$EAFEF59C-17D9-46AE-98BC-93974D778222"
+  },
+  {
+    "item": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "replaces": {
+      "value": "Q336534",
+      "label": "Merlyn Rees"
+    },
+    "replacedBy": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "start": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332759$8863CD4A-2365-4257-9F81-055844A159BE"
+  },
+  {
+    "item": {
+      "value": "Q334302",
+      "label": "Airey Neave"
+    },
+    "start": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-03-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334302$261586E1-BF58-4113-93CA-6C11784D5E7B"
+  },
+  {
+    "item": {
+      "value": "Q333362",
+      "label": "Ian Gilmour, Baron Gilmour of Craigmillar"
+    },
+    "replaces": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "replacedBy": {
+      "value": "Q334302",
+      "label": "Airey Neave"
+    },
+    "start": {
+      "value": "1974-10-29T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1975-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333362$0962A832-CD5E-471B-92FE-001433497C7F"
+  },
+  {
+    "item": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "replaces": {
+      "value": "Q5292445",
+      "label": "Don Concannon"
+    },
+    "replacedBy": {
+      "value": "Q6396978",
+      "label": "Kevin McNamara"
+    },
+    "start": {
+      "value": "1983-10-31T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1617771$A0632078-DBEB-4D21-90B9-60D8B450BA20"
+  },
+  {
+    "item": {
+      "value": "Q6396978",
+      "label": "Kevin McNamara"
+    },
+    "replaces": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "replacedBy": {
+      "value": "Q262727",
+      "label": "Mo Mowlam"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6396978$979BB138-F8C9-4CCB-8372-6B0BF4E5F739"
+  },
+  {
+    "item": {
+      "value": "Q262727",
+      "label": "Mo Mowlam"
+    },
+    "replaces": {
+      "value": "Q6396978",
+      "label": "Kevin McNamara"
+    },
+    "replacedBy": {
+      "value": "Q4757838",
+      "label": "Andrew MacKay"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262727$E6797E8C-AAAE-4D3E-B197-BD7697F4BBE3"
+  },
+  {
+    "item": {
+      "value": "Q4757838",
+      "label": "Andrew MacKay"
+    },
+    "replaces": {
+      "value": "Q262727",
+      "label": "Mo Mowlam"
+    },
+    "replacedBy": {
+      "value": "Q333474",
+      "label": "Quentin Davies, Baron Davies of Stamford"
+    },
+    "start": {
+      "value": "1997-06-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4757838$1FA23E81-C126-4516-A67D-EDBEB856405B"
+  },
+  {
+    "item": {
+      "value": "Q333474",
+      "label": "Quentin Davies, Baron Davies of Stamford"
+    },
+    "replaces": {
+      "value": "Q4757838",
+      "label": "Andrew MacKay"
+    },
+    "replacedBy": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "start": {
+      "value": "2001-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333474$148CAE09-F6F1-4983-B18D-6A9A259C31D8"
+  },
+  {
+    "item": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replaces": {
+      "value": "Q333474",
+      "label": "Quentin Davies, Baron Davies of Stamford"
+    },
+    "replacedBy": {
+      "value": "Q197894",
+      "label": "Owen Paterson"
+    },
+    "start": {
+      "value": "2003-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q748837$497CEACE-2354-4879-B1E3-46CD167301CB"
+  },
+  {
+    "item": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replaces": {
+      "value": "Q333474",
+      "label": "Quentin Davies, Baron Davies of Stamford"
+    },
+    "replacedBy": {
+      "value": "Q197894",
+      "label": "Owen Paterson"
+    },
+    "start": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q748837$6B916495-8A64-4709-8106-F144977F1E8A"
+  },
+  {
+    "item": {
+      "value": "Q197894",
+      "label": "Owen Paterson"
+    },
+    "replaces": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replacedBy": {
+      "value": "Q261001",
+      "label": "Shaun Woodward"
+    },
+    "start": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q197894$63FCBDED-4117-42B0-855F-12ABEFF971D2"
+  },
+  {
+    "item": {
+      "value": "Q261001",
+      "label": "Shaun Woodward"
+    },
+    "replaces": {
+      "value": "Q197894",
+      "label": "Owen Paterson"
+    },
+    "replacedBy": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q261001$857C8B40-F2C1-473E-BA02-EEC49E33A640"
+  },
+  {
+    "item": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "replaces": {
+      "value": "Q261001",
+      "label": "Shaun Woodward"
+    },
+    "replacedBy": {
+      "value": "Q749659",
+      "label": "Ivan Lewis"
+    },
+    "start": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q285975$1368fccb-48db-3065-a599-c49e87612775"
+  },
+  {
+    "item": {
+      "value": "Q749659",
+      "label": "Ivan Lewis"
+    },
+    "replaces": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "replacedBy": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "start": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q749659$57522A5B-07D8-4393-8805-05435138971F"
+  },
+  {
+    "item": {
+      "value": "Q285975",
+      "label": "Vernon Coaker"
+    },
+    "replaces": {
+      "value": "Q749659",
+      "label": "Ivan Lewis"
+    },
+    "replacedBy": {
+      "value": "Q3409354",
+      "label": "David Anderson"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q285975$F0B88973-2730-4F85-971C-6B24F1428812"
+  }
+]
